@@ -5,7 +5,7 @@
   <img src="https://github.com/wintrobz/wintrobz/blob/a82766fc0a70ae79f45b08a299a26cf5c8821f78/wintrobZCard.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am both a *pharmaceutical scientist* and *biostatistician* by training and currently work at Hartwick College and ROAKETIN, Inc. My research interests are primarily in machine learning and informatics in oncology, immunology, infectious disease, and rare disease. Depending on my availability, I am always happy to help with public health and pharmaceutical development projects.
+I am both a *pharmaceutical scientist* and *biostatistician* by training and currently work at ROAKETIN, Inc. My research interests are primarily in machine learning and informatics in oncology, immunology, infectious disease, and rare disease. Depending on my availability, I am always happy to help with public health and pharmaceutical development projects.
  
 Currently I am using GitHub primarily for working on developing <img src="http://img.shields.io/badge/-276DC3?style=flat&logo=R&logoColor=white" title="R" alt="R"> packages to facilitate the use of publicly available databases to accelerate analysis. In the future I hope to work on developing tools for pharmacokinetics and pharmacodynamics in <img src="http://img.shields.io/badge/-276DC3?style=flat&logo=R&logoColor=white" title="R" alt="R">.
  
